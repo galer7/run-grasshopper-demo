@@ -1,8 +1,8 @@
 # rhino-8-run-grasshopper-demo
 
-Reproduction repository for running the `SampleRunGrasshopper` on Rhino 8 in a .NET Framework 4.8 project.
+Demo repository for running the `SampleRunGrasshopper` on Rhino 8 in a .NET Framework 4.8 project.
 
-Ideally I would want for `Program.cs` to run in a .NET 7.0 runtime, but I'm not sure how to do that.
+Ideally, I would want for `Program.cs` to run in a .NET 7.0 runtime, but I'm not sure how to do that.
 
 ## Resources
 

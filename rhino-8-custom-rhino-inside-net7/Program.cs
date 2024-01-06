@@ -1,4 +1,3 @@
-using System;
 using Rhino.Geometry;
 
 // Code from https://github.com/mcneel/rhino-developer-samples/blob/8/rhino.inside/dotnet/SampleRunGrasshopper/Program.cs
@@ -8,6 +7,7 @@ namespace RunGrasshopper
     {
         static Program()
         {
+            Console.WriteLine("Initializing RhinoInside.Resolver");
             RhinoInside.Resolver.Initialize();
         }
 

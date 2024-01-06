@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGrasshopperDemo", "RunGrasshopperDemo.csproj", "{987D63CD-7AA8-4DA1-9075-E20F7177B66B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGrasshopperOnRhino7WithRhinoInside", "RunGrasshopperOnRhino7WithRhinoInside.csproj", "{987D63CD-7AA8-4DA1-9075-E20F7177B66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

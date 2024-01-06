@@ -1,5 +1,3 @@
-using System;
-using System.IO;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
@@ -14,6 +12,7 @@ namespace RhinoInside
         /// </summary>
         public static void Initialize()
         {
+            Console.WriteLine("Initializing RhinoInside.Resolver");
             if (System.IntPtr.Size != 8)
                 throw new Exception("Only 64 bit applications can use RhinoInside");
             AppDomain.CurrentDomain.AssemblyResolve += ResolveForRhinoAssemblies;

@@ -20,11 +20,11 @@ This repository is my take on (hopefully) making this process a little bit easie
 
 - .NET
   - net48
-    - [Rhino 7.0 with Rhino.Inside](./rhino-7-with-rhino-inside-net48/README.md)
-    - [Rhino 7.0 with "manually" implemented Rhino.Inside](./rhino-7-custom-rhino-inside-net48/README.md)
+    - [Rhino 7.0 with Rhino.Inside](./rhino-7-with-rhino-inside-net48)
+    - [Rhino 7.0 with "manually" implemented Rhino.Inside](./rhino-7-custom-rhino-inside-net48)
   - net7.0
-    - [Rhino 8.0 with Rhino.Inside](./rhino-8-with-rhino-inside-net7/README.md) - **WIP (as of 2024.01.06)**
-    - [Rhino 8.0 with "manually" implemented Rhino.Inside](./rhino-8-custom-rhino-inside-net7/README.md) - **Recommended (as of 2024.01.06)**
+    - [Rhino 8.0 with Rhino.Inside](./rhino-8-with-rhino-inside-net7) - **WIP (as of 2024.01.06)**
+    - [Rhino 8.0 with "manually" implemented Rhino.Inside](./rhino-8-custom-rhino-inside-net7) - **Recommended (as of 2024.01.06)**
 - Python
   - Coming soon...
 
